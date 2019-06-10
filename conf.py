@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Discord dev portal'
+project = 'Teabotdocs'
 copyright = '2019, Clearly'
 author = 'Clearly'
 
@@ -46,6 +46,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
+#
 html_theme = 'alabaster'
 
 # Add any paths that contain custom static files (such as style sheets) here,
